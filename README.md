@@ -1,5 +1,3 @@
-Final Project from the CSC 422: Automated Learning and Data Analysis course at NC State University
-
 # Setup Instructions
 
 1. Download the datasets: https://www.kaggle.com/datasets/kartik2112/fraud-detection
